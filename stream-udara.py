@@ -5,9 +5,6 @@ model = pickle.load(open('udara_model.sav', 'rb'))
 
 # Judul
 st.title("PREDIKSI KUALITAS STANDAR PENCEMARAN UDARA")
-st.header("Tugas UAS Business intelligence")
-st.subheader("NENDA PUTRI SUCIATY")
-st.subheader("191351065")
 
 col1, col2, = st.columns(2)
 
